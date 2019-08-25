@@ -11,7 +11,7 @@
   <p>
   
    <iframe src="https://giphy.com/embed/5uwJgbiK6GxOg" width="240" height="140" frameBorder="0" class="giphy-embed" allowFullScreen>
-         < src="https://giphy.com/embed/11Advgi3uvcoNO" width="240" height="140" frameBorder="0" class="giphy-embed" allowFullScreen>
+   <iframe src="https://giphy.com/embed/11Advgi3uvcoNO" width="240" height="140" frameBorder="0" class="giphy-embed" allowFullScreen>
    </iframe>
   </p>
 
