@@ -8,8 +8,8 @@
   
   </p>
   
-<p> <iframe src="https://giphy.com/embed/10gQab9NiLCnqo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<iframe src="https://giphy.com/embed/5uwJgbiK6GxOg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
+<p> <iframe src="https://giphy.com/embed/10gQab9NiLCnqo" width="140" height="140" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/5uwJgbiK6GxOg" width="240" height="140" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
 
 <h2> Jeux Video </h2>
 
