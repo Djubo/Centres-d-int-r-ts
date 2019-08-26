@@ -13,9 +13,9 @@
 
 <h2> Jeux Video </h2>
   <p>
-    De la generation des années 80, j ai donc pu apprécier l'évolution des consoles et ordinateur. J' ai dailleur monté moi même ma configue Pc. 
+    De la generation des années 80, j ai donc pu apprécier l'évolution des consoles et ordinateur. J' ai dailleur monté moi même ma configue Pc. Je 
+
+</p>
 
 
-
-
-<iframe src="https://giphy.com/embed/Pxq1RCRLGGWqs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><
+<iframe src="https://giphy.com/embed/Pxq1RCRLGGWqs" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><
