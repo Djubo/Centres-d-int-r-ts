@@ -12,7 +12,7 @@
 
 <h2> Jeux Video </h2>
   <p>
-    De la generation des années 80, j ai donc pu apprécier l'évolution des consoles et des ordinateur. J' ai d'ailleur monté moi même ma configue Pc. Comme en musique mes gouts sont très divers et variés en matiére de catégories de jeux vidéo. Depuis un peut plus d'un ans j'ai découvert la possibilitée de partager cette passion en streaming avec le plateforme twitch notammenet. Ma connection a l'époque ne me permeté pas pouvoir crée ma chaine mais depuis 2 mois la fibre ma débloqué de cette problématique. 
+    De la generation des années 80, j ai donc pu apprécier l'évolution des consoles et des ordinateur. J' ai d'ailleur monté moi même ma configue Pc. Comme en musique mes gouts sont très divers et variés en matiére de catégories de jeux vidéo. Depuis un peut plus d'un ans j'ai découvert la possibilitée de partager cette passion en streaming avec le plateforme twitch notammenet. Ma connection a l'époque ne me permeté pas de pouvoir crée ma chaine mais depuis 2 mois la fibre a débloqué de cette problématique. 
 
   </p>
 
