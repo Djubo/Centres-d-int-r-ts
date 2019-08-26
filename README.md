@@ -1,8 +1,8 @@
 <h2> Musique </h2>
   <p>
-    La musique tiens une place importante dans ma vie, que se soit pour faire du sport, voyager ou simplement me reposer. elle m'accompagne et donne une autre dimension a mes instants présent.
-    J'ai appris a faire de la guitare en autodidacte. que je pratique occasionellement pour mon plaisir personnel.
-    En matière de musique, j ai des goûts très éclectiques.  
+    La musique tient une place importante dans ma vie, que ce soit pour faire du sport, voyager ou simplement me reposer. Elle m'accompagne et donne une autre dimension aux moments que je vis.
+    J'ai appris à faire de la guitare en autodidacte. Je pratique occasionellement pour mon plaisir personnel.
+    En matière de musique, j'ai des goûts très éclectiques.  
   </p>
   
   <p>
@@ -12,7 +12,8 @@
 
 <h2> Jeux Video </h2>
   <p>
-    De la generation des années 80, j ai donc pu apprécier l'évolution des consoles et des ordinateur. J' ai d'ailleur monté moi même ma configue Pc. Comme en musique mes gouts sont très divers et variés en matiére de catégories de jeux vidéo. Depuis un peut plus d'un ans j'ai découvert la possibilitée de partager cette passion en streaming avec le plateforme twitch notammenet. Ma connection a l'époque ne me permeté pas de pouvoir crée ma chaine mais depuis 2 mois la fibre a débloqué de cette problématique. 
+    De la géneration des années 80, j'ai donc pu apprécier l'évolution des consoles et des ordinateurs. J'ai d'ailleurs monté moi-même ma configuration Pc. 
+  Comme en musique mes goûts sont divers et variés en matière de catégories de jeux vidéo. Depuis un peu plus d'un an j'ai découvert la possibilité de partager cette passion en streaming avec le plateforme twitch. Ma connexion de l'époque ne me permettait pas de pouvoir créer ma propre source de contenu mais depuis 2 mois, grâce à l'évolution d'internet, la fibre a débloqué cette problématique. 
 
   </p>
 
@@ -22,7 +23,8 @@
   </p>
 <h2> Sport </h2>
   <p>
-    Je pratique diverse exercices sportif tel que la course a pied, natation, le roller ou meme la musculation avec une fréquence moderé tout fois. je pense qu'une activitée physique viens compléter un équilibre et une hygiene de vie ( alimentation, sommeil...).
+    Je pratique diverses exercices sportifs tels que : la course a pied, la natation, le roller ou même la musculation avec une fréquence moderée toute fois. 
+  Je pense qu'une activité physique vient compléter un équilibre et une hygiène de vie, que ce soit dans l'alimention ou dans le sommeil.
   </p>
   <p>
     <iframe src="https://giphy.com/embed/Y0CSq47jvUiFW" width="240" height="140" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
