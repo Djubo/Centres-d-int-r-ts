@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    <iframe src="https://giphy.com/embed/Pxq1RCRLGGWqs" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <iframe src="https://giphy.com/embed/Pxq1RCRLGGWqs" width="240" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
     <iframe src="https://giphy.com/embed/3oEdv21Ej0IL8vjRcI" width="240" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   </p>
 <h2> Sport </h2>
