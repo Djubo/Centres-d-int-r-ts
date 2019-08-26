@@ -1,6 +1,6 @@
 <h2> Musique </h2>
   <p>
-    La musique tient une place importante dans ma vie, que ce soit pour faire du sport, voyager ou simplement me reposer. Elle m'accompagne et donne une autre dimension aux moments que je vis.
+    La musique tient une place plus qu'importante dans ma vie, que ce soit pour faire du sport, voyager ou simplement me reposer. Elle m'accompagne et donne une autre dimension aux moments que je vis.
     J'ai appris à faire de la guitare en autodidacte. Je pratique occasionellement pour mon plaisir personnel.
     En matière de musique, j'ai des goûts très éclectiques.  
   </p>
