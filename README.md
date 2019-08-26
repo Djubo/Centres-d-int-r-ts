@@ -7,8 +7,7 @@
   
   <p>
    <iframe src="https://giphy.com/embed/5uwJgbiK6GxOg" width="240" height="140" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-   <iframe src="https://giphy.com/embed/11Advgi3uvcoNO" width="240" height="140" frameBorder="0" class="giphy-embed" allowFullScreen>
-   </iframe>
+   <iframe src="https://giphy.com/embed/XVAq5DLZwx2yA" width="240" height="140" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arrested-development-guitar-tony-hale-XVAq5DLZwx2yA">via GIPHY</a></p>
   </p>
 
 <h2> Jeux Video </h2>
