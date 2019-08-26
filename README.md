@@ -13,7 +13,7 @@
 <h2> Jeux Video </h2>
   <p>
     De la géneration des années 80, j'ai donc pu apprécier l'évolution des consoles et des ordinateurs. J'ai d'ailleurs monté moi-même ma configuration Pc. 
-  Comme en musique mes goûts sont divers et variés en matière de catégories de jeux vidéo. Depuis un peu plus d'un an j'ai découvert la possibilité de partager cette passion en streaming avec le plateforme twitch. Ma connexion de l'époque ne me permettait pas de pouvoir créer ma propre source de contenu mais depuis 2 mois, grâce à l'évolution d'internet, la fibre a débloqué cette problématique. 
+  Comme en musique mes goûts sont divers et variés en matière de catégories de jeux vidéo. Depuis un peu plus d'un an j'ai découvert la possibilité de partager cette passion en streaming avec la plateforme twitch. Ma connexion de l'époque ne me permettait pas de pouvoir créer ma propre source de contenu mais depuis 2 mois, grâce à l'évolution d'internet, la fibre a débloqué cette problématique. 
 
   </p>
 
