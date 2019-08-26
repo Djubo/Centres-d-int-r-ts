@@ -23,7 +23,7 @@
   </p>
 <h2> Sport </h2>
   <p>
-    Je pratique divers exercices sportifs tels que : la course à pied, la natation, le roller ou même la musculation avec une fréquence moderée toute fois. 
+    Je pratique divers exercices sportifs tels que : la course à pied, la natation, le roller ou même la musculation, avec une fréquence moderée toute fois. 
   Je pense qu'une activité physique vient compléter un équilibre et une hygiène de vie, que ce soit dans l'alimention ou dans le sommeil.
   </p>
   <p>
